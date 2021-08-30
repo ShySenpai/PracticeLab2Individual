@@ -7,7 +7,7 @@
 	  border-radius: 5px;
 	}
 		p {
-		  font-size: 70px;
+		  font-size: 69px;
 		}
 		body {
 		  background-image: url('https://images.wallpaperscraft.com/image/waterfall_grass_nature_shadow_92753_1920x1080.jpg');
